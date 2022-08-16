@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
  -->
 - 💻I'm a computer engineering university student 
-- 🔭I'm keen on learning and gaining knowledge about almost everything like web development or IoT and son on.
+- 🔭I'm keen on learning and gaining knowledge about almost everything like web development or IoT and so on.
 <!---
 SeyedMohammadMahdi/SeyedMohammadMahdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
